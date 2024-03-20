@@ -10,7 +10,7 @@ Emotion recognition project using IMDB dataset and PyTorch library. In this proj
     * spacy -> To tokenize the words in the sentence
 
     ```
-    pip install pytorch torchtext===0.6.0 spacy
+    pip install pytorch torchtext==0.6.0 spacy
     ```
     [install PyTorch for Cuda or other OS](https://pytorch.org/get-started/locally/)
 
