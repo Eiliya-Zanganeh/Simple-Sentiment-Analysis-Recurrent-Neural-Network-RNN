@@ -1,4 +1,4 @@
-# Sentiment analysis with recurrent neural networks ( RNN )
+# Sentiment analysis with recurrent neural network (RNN)
 
 Emotion recognition project using IMDB dataset and PyTorch library. In this project, the neural network is trained to be able to recognize emotions in a text.
 
