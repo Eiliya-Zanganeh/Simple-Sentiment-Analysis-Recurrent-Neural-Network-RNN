@@ -27,7 +27,7 @@ Emotion recognition project using IMDB dataset and PyTorch library. In this proj
     * Fully connected or Linear layer -> This layer has the same input as the output of the RNN layer and outputs as many classes as desired. This layer is used to convert the RNN layer vector to the desired output.
 
 ### The structure of the RNN network:
-![RNN](assetes/rnn.png)
+![RNN](assets/rnn.png)
 The vector that enters the RNN network is the size of the number of dictionary words. When a sentence enters the network, it is not the words that enter the network, but the weights and numbers of the words in the dictionary that enters the network.
 
 The RNN network remains like a chain. where words are processed. The words of the sentence that enter the network are interdependent and affect each other. If you look carefully in the photo, you can see that the parts of the network are connected and not a separate part. All the words in the sentence are related.
